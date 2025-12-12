@@ -27,12 +27,6 @@ How to Use
 
 When the tool starts, simply enter the target URL you want to scan and wait for the extraction to finish.
 
-Example:
-
-cd Downloads
-python3 email-scraper.py
-[+] Enter target URL to scan: https://randomsite.com
-
 
 This tool is intended only for ethical and legal use.
 Do not use it for spamming, unauthorized data harvesting, or any action that violates site policies or privacy laws such as GDPR.
